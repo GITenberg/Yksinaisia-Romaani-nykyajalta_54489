@@ -1,0 +1,30 @@
+_repo: Yksinaisia-Romaani-nykyajalta_54489
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Onerva, L.
+    aliases:
+    - Lehtinen, Onerva
+    - Lehtinen, Hilja Onerva
+    - Streng, Hilja Onerva
+    - Madetoja, Hilja Onerva
+    birthdate: 1882
+    deathdate: 1972
+    gutenberg_agent_id: '2741'
+    url: http://www.gutenberg.org/2009/agents/2741
+    wikipedia: https://fi.wikipedia.org/wiki/L._Onerva
+description: ''
+gutenberg_issued: '2017-04-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54489'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish fiction -- 20th century'
+- !lcc 'PH'
+- GITenberg
+title: 'Yksinäisiä: Romaani nykyajalta'
+url: http://www.gutenberg.org/ebooks/54489
