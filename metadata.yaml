@@ -1,5 +1,8 @@
 _repo: Yksinaisia-Romaani-nykyajalta_54489
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Onerva, L.
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2741
     wikipedia: https://fi.wikipedia.org/wiki/L._Onerva
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54489#Yksinaisia-Romaani-nykyajalta
 gutenberg_issued: '2017-04-05'
 gutenberg_type: Text
 identifiers:
